@@ -102,6 +102,11 @@ header {
 	color: #FFFFFF;
 	text-align: center;
 }
+.intro .column h1 {
+	font-size: 200%;
+	color: #FFFFFF;
+	text-align: center;
+}
 .intro .column h4 {
 	color: #FFFFFF;
 	text-align: justify;
