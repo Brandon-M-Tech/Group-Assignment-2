@@ -73,6 +73,9 @@ header {
 	padding-top: 20px;
 	border-bottom: 4px solid #6DC7D0;
 }
+img {
+	border-radius: 20%;
+}
 .gallery .thumbnail h4 {
 	margin-top: 5px;
 	margin-bottom: 5px;
