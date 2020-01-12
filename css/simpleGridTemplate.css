@@ -106,14 +106,18 @@ img {
 	text-align: center;
 }
 .intro .column h1 {
-	font-size: 200%;
+	text-shadow: 4px 8px 20px rgba(0,0,0,2);
+	font-style: italic;
+	font-size: 400%;
 	color: #FFFFFF;
 	text-align: center;
+	margin-top: 10px;
 }
 .intro .column h4 {
 	color: #FFFFFF;
 	text-align: justify;
 	padding-left: 30px;
+	padding-right: 30px;
 	margin-left: 20px;
 	margin-bottom: 0px;
 }
@@ -121,7 +125,7 @@ img {
 	color: #FFFFFF;
 }
 .intro .column p {
-	padding-left: 30px;
+	padding-left:30px;
 	padding-right: 30px;
 	text-align: justify;
 	line-height: 25px;
@@ -211,7 +215,10 @@ footer {
 	background-color: #6DC7D0;
 }
 .profile {
-	width: 50%;
+	width: 550px;
+	height: 500px;
+	border-radius: 5%;
+	margin-top: 40px;
 }
 .gallery .thumbnail .tag {
 	color: #5D5E5D;
