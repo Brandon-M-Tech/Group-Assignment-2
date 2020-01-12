@@ -216,9 +216,9 @@ footer {
 	background-color: #6DC7D0;
 }
 .profile {
-	width: 550px;
-	height: 500px;
-	border-radius: 5%;
+	width: 50%;
+	height: 50%;
+	border-radius: 50%;
 	margin-top: 40px;
 }
 .gallery .thumbnail .tag {
